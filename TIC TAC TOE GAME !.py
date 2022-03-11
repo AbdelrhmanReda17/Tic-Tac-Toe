@@ -1,9 +1,5 @@
 """
 Code by  Abdelrhman Reda Mohamed a Student in FCAI-CU !
-Descripe : 
-The game Has a  2 players, each player should pick 2 numbers from a list [1,20]
-the 2 number convert into a string character if these characters are , same then the player take a point, and we make a screen clear 
-if these characters are not  the same then we make screen clear then the other player play
 
 """
 from tkinter import *
