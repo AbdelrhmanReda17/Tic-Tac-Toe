@@ -1,3 +1,0 @@
-The game has two players. Each player should pick a number from between [0,10]
-The first player chooses only odd numbers, and the second player chooses only even numbers.
-The first player to make a row with a sum equal to 15 wins.
